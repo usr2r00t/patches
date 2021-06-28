@@ -1,1 +1,1 @@
-## Some Linux vulnerabilities paches
+## Some Linux vulnerabilities patches
